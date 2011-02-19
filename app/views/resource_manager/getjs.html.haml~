@@ -1,0 +1,7 @@
+!!! XML
+!!!
+%html{html_attrs}
+  %head
+    %title Hello, Haml!
+  %body
+    %h1 Hello, Haml!
